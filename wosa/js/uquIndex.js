@@ -10,7 +10,6 @@ const liArray = [
     {text: "LAB 2",                 link: "JAVA_1/LAB_2.java",               apiKey: 5},
     {text: "LAB 2 (شرح)",           link: "JAVA_1_EXP/LAB_2.html",           apiKey: 6},
     {text: "LAB 3 (App.java)",      link: "JAVA_1/LAB_3.java",               apiKey: 7},
-    {text: "LAB 3 (AppTest.java)",  link: "JAVA_1/LAB_3_TEST.java",          apiKey: 8},
     {text: "LAB 3 (شرح)",           link: "JAVA_1_EXP/LAB_3.html",           apiKey: 9},
 ];
 
